@@ -41,7 +41,7 @@
   "dependencies": {
     "@babel/runtime": "^7.11.2",
     "crypto-js": "^4.0.0",
-    "sweetalert2": "^10.0.2",
+    "sweetalert": "^2.1.2",
     "vue": "^2.6.12",
     "vue-ripple-directive": "^2.0.1"
   }
